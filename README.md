@@ -1,5 +1,5 @@
 # SiJentikUr
-Flutter side project
+Sistem Informasi Jentik untuk daerah Urban dan Rural
 
 ## Screenshot 
 ![](screenshot/splash.jpg)  ![](screenshot/login.png) ![](screenshot/register.png)
