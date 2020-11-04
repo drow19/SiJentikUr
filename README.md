@@ -2,6 +2,6 @@
 Flutter side project
 
 ## Screenshot 
-![](screenshot/splash.jpg)  ![](screenshot/login.jpg) ![](screenshot/register.jpg)
-![](screenshot/home.jpg)  ![](screenshot/report.jpg) ![](screenshot/qrcode.jpg)
-![](screenshot/profile.jpg)
+![](screenshot/splash.jpg)  ![](screenshot/login.png) ![](screenshot/register.png)
+![](screenshot/home.png)  ![](screenshot/report.png) ![](screenshot/qrcode.png)
+![](screenshot/profile.png)
